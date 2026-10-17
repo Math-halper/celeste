@@ -7,7 +7,7 @@ A small static collection of browser-playable Celeste PICO-8 games and community
 Open [`index.html`](index.html) to choose a game:
 
 - **Celeste Classic** — [`classic/`](classic/), the original game.
-- **Celeste Classic 2: Lani's Trek** — [`2/`](2/), the follow-up.
+- **Celeste Classic 2: Lani's Trek** — [`two/`](two/), the follow-up.
 
 Both game pages include an **All games** link back to the selector, so you can switch if you opened the wrong game. The [`speed/`](speed/) directory contains the community hub, practice mods, and downloads.
 
